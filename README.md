@@ -1,6 +1,6 @@
 # 🧠 Building LLM Applications with Prompt Engineering – Notes
 
-Welcome to this repository! It contains summaries of key concepts from the [NVIDIA DLI course]([https://learn.nvidia.com/](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-12+V2)) **“Building LLM Applications with Prompt Engineering.”**
+Welcome to this repository! It contains summaries of key concepts from the [NVIDIA DLI course](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-12+V2) **“Building LLM Applications with Prompt Engineering.”**
 
 These Notes were created using Excalidraw and aim to distill the most important lessons in a concise, visual format — perfect for quick reviews or for anyone getting started with LLM application development.
 
